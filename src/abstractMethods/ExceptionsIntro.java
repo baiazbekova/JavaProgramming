@@ -21,7 +21,7 @@ public class ExceptionsIntro {
     //checked
         //Thread.sleep(500);
 
-        FileInputStream file = new FileInputStream("path file")
+        //FileInputStream file = new FileInputStream("path file")
 
     }
 }
